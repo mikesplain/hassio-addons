@@ -11,6 +11,9 @@ arch:
   - amd64
   - i386
 init: false
+ingress: true
+ingress_stream: true
+panel_icon: mdi:kubernetes
 options:
   message: "Hello world... kubernetes!"
 schema:
