@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Kubernetes Dashboard
-url: "https://github.com/mikesplain/hassio-kubernetes-dashboard"
+name: Hassio Addons
+url: "https://github.com/mikesplain/hassio-addons"
 maintainer: Mike Splain <mike.splain@gmail.com>
