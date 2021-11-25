@@ -10,7 +10,7 @@ FROM $BUILD_FROM
 
 RUN \
     apk add --no-cache \
-        nginx
+        nginx=1.20.2-r0
 
 # Copy root filesystem
 COPY rootfs /
