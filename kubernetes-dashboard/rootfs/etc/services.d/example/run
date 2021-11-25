@@ -17,7 +17,4 @@ bashio::log.info "${message:="Hello World..."}"
 
 bashio::log.info "Starting Nginx...."
 
-# exec nginx
-
-## Run your program
-# exec my_program --with-params
+exec nginx
